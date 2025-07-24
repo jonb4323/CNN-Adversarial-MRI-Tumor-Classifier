@@ -5,6 +5,7 @@ This project done entirely in **Jupyter Notebook** builds a convolutional neural
 **Model**: A simple CNN with batch normalization and average pooling layers, trained to classify grayscale MRI scans as tumor/no-tumor.</br>
 **Loss/Optimization**: Cross-entropy loss with Adam optimizer.</br>
 **Adversarial Testing**: Adversarial examples are generated using a custom attack module and fed to the trained model to observe performance degradation.</br>
+
 **Visualization**: Both original and perturbed images are visualized with model predictions and confidence scores.</br>
 
 ***Features***
