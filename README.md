@@ -23,7 +23,7 @@ This project done entirely in **Jupyter Notebook** builds a convolutional neural
 **adversarial_attack.py**: This class calls the attack on a new set of data to prevent overfitting the data and using **matplotlib** to plot the images with their results ater the attack 
 
 **Tested using PyTest**
-- Projects testing was done using pytest:
+Projects testing was done using pytest:
   
 **Tests Done**:
 - Imports
