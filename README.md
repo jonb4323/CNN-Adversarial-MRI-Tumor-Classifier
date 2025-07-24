@@ -1,7 +1,7 @@
 # CNN-Adversarial-MRI-Tumor-Classifier
 This project done entirely in **Jupyter Notebook** builds a convolutional neural network (CNN) to classify brain MRI scans for tumor detection, and evaluates the model's robustness using adversarial attacks.
 
-***Overview***
+***Overview***</br>
 **Model**: A simple CNN with batch normalization and average pooling layers, trained to classify grayscale MRI scans as tumor/no-tumor.</br>
 **Loss/Optimization**: Cross-entropy loss with Adam optimizer.</br>
 **Adversarial Testing**: Adversarial examples are generated using a custom attack module and fed to the trained model to observe performance degradation.</br>
