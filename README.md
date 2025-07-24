@@ -23,7 +23,7 @@ So make sure you download the set before running the model.</br>
 - Visualization of adversarial impact on model predictions
 
 ================================================</br>
-***Files***
+***Files***</br>
 ================================================</br>
 **imports.py**: Holds all the imports used in the program (making it easy and simple to change or modify imports)</br>
 
@@ -37,7 +37,7 @@ So make sure you download the set before running the model.</br>
 
 
 ================================================</br>
-**Tested using PyTest**
+**Tested using PyTest**</br>
 ================================================</br>
 Projects testing was done using pytest:
   
@@ -61,7 +61,7 @@ Projects testing was done using pytest:
 - pytest -> all the testing
 
 ================================================</br>
- **How to RUN**
+ **How to RUN**</br>
 ================================================</br>
  1. Clone the repo and open the Jupyter Notebook or scripts
  2. Adjust image file paths to match your local directories
