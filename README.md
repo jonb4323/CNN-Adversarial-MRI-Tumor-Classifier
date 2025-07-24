@@ -22,7 +22,7 @@ This project done entirely in **Jupyter Notebook** builds a convolutional neural
 
 **Tested using PyTest**
 - Projects testing was done using pytest:
-- 
+  
 **Tests Done**:
 - Imports
 - Dependencies 
@@ -34,13 +34,13 @@ This project done entirely in **Jupyter Notebook** builds a convolutional neural
 - Generate Attack
 - Adversarial Attack
 
-  **Libraries Used**
-  - Pytorch -> nn, nn.functional (Network building)
-  - torchvision -> dataloader
-  - torch.optim -> optimization
-  - matplotlib -> plt
-  - PIL (Python Image Library) -> Image
-  - pytest -> all the testing
+**Libraries Used**
+- Pytorch -> nn, nn.functional (Network building)
+- torchvision -> dataloader
+- torch.optim -> optimization
+- matplotlib -> plt
+- PIL (Python Image Library) -> Image
+- pytest -> all the testing
 
  **How to RUN**
  1. Clone the repo and open the Jupyter Notebook or scripts
