@@ -6,9 +6,9 @@ The images used for training and testing are not included but they were pulled f
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset</br>
 So make sure you download the set before running the model.</br>
 
-=====================================================================================
+================================================</br>
 ***Overview***</br>
-=====================================================================================
+================================================</br>
 
 **Model**: A simple CNN with batch normalization and average pooling layers, trained to classify grayscale MRI scans as tumor/no-tumor.</br>
 **Loss/Optimization**: Cross-entropy loss with Adam optimizer.</br>
@@ -22,9 +22,9 @@ So make sure you download the set before running the model.</br>
 - Adversarial robustness testing
 - Visualization of adversarial impact on model predictions
 
-=====================================================================================
+================================================</br>
 ***Files***
-=====================================================================================
+================================================</br>
 **imports.py**: Holds all the imports used in the program (making it easy and simple to change or modify imports)</br>
 
 **image_loader.py**: Loads the regular (png, jpeg, jpg) image, using tansforms to compose each image to -> greyscale, resized to 64x64, and tensor transformation (with their respective label yes/no tumor)</br>
@@ -36,9 +36,9 @@ So make sure you download the set before running the model.</br>
 **adversarial_attack.py**: This class calls the attack on a new set of data to prevent overfitting the data and using **matplotlib** to plot the images with their results ater the attack</br>
 
 
-=====================================================================================
+================================================</br>
 **Tested using PyTest**
-=====================================================================================
+================================================</br>
 Projects testing was done using pytest:
   
 **Tests Done**:
@@ -60,9 +60,9 @@ Projects testing was done using pytest:
 - PIL (Python Image Library) -> Image
 - pytest -> all the testing
 
-=====================================================================================
+================================================</br>
  **How to RUN**
- =====================================================================================
+================================================</br>
  1. Clone the repo and open the Jupyter Notebook or scripts
  2. Adjust image file paths to match your local directories
  3. Train the CNN using model_training.py
