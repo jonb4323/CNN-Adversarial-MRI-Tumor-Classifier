@@ -1,6 +1,8 @@
 # CNN-Adversarial-MRI-Tumor-Classifier
 This project done entirely in **Jupyter Notebook** builds a convolutional neural network (CNN) to classify brain MRI scans for tumor detection, and evaluates the model's robustness using adversarial attacks.
 
+***VIDEO DEMO/BREAKDOWN***:[(https://youtu.be/jaxZRQnir-Y)]</br>
+
 ***IMPORTANT***</br>
 The images used for training and testing are not included but they were pulled from:</br>
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset</br>
