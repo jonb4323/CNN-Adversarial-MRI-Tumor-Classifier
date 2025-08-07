@@ -8,9 +8,11 @@ The images used for training and testing are not included but they were pulled f
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset</br>
 So make sure you download the set before running the model.</br>
 
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\</br>
 ================================================</br>
 ***Overview***</br>
 ================================================</br>
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\</br>
 
 **Model**: A simple CNN with batch normalization and average pooling layers, trained to classify grayscale MRI scans as tumor/no-tumor.</br>
 **Loss/Optimization**: Cross-entropy loss with Adam optimizer.</br>
