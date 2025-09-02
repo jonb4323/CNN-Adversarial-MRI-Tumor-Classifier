@@ -6,7 +6,7 @@ This project done entirely in **Jupyter Notebook** builds a convolutional neural
 ***IMPORTANT***</br>
 The images used for training and testing are not included but they were pulled from:</br>
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset</br>
-So make sure you download the set before running the model.</br>
+So make **sure** you download the set before running the model.</br>
 
 
 ================================================</br>
